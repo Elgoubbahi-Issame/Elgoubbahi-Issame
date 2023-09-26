@@ -32,8 +32,6 @@
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
 
-<br>
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left">   <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -55,7 +53,6 @@
       width="40" height="40" /> </a> 
 </p>
 
-<br>
 <h3 align="left">Front-End Languages:</h3>
 <p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -70,9 +67,8 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a>
-
 </p>
-<br>
+
 <h3 align="left">DataBases Languages:</h3>
  <p align="left">   
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
@@ -85,7 +81,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"
       alt="neo4j" width="40" height="40" /> </a>
  </p>
-<br>
+
 <h3 align="left">Data Science Tools:</h3>
  <p align="left">  
      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -98,13 +94,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/r/r-original.svg"
       alt="r" width="40" height="40" /> </a>
  </p>
-<br>
+
  <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Elgoubbahi-Issame&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Issame-EG" 
-    bg_color=#808080/></p>
-<br>
+    bg_color=#808080/>
+</p>
+
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>

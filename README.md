@@ -11,6 +11,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+<h4 align="center">I'm Issame Elgoubbahi, a Data Scientist & Software Developer Student from ENSA (National School of Science Applied in Tangier, Morocco 🇲🇦). I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures. </h4>
 
 - 🌱 I’m currently learning Web Development and Data Science
 

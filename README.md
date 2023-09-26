@@ -80,6 +80,9 @@
      <a href="https://www.neo4j.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"
       alt="neo4j" width="40" height="40" /> </a>
+     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
+      alt="sqlite" width="40" height="40" /> </a>
  </p>
 
 <h3 align="left">Data Science Tools:</h3>

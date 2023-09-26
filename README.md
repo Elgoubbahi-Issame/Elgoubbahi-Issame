@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Issame Elgoubbahi</h1>
-<h3 align="center">Student at Ensa, Tangier🌟.</h3>
+<h3 align="center">Data Scientist Student at ENSA, Tangier🌟.</h3>
 
 <br>
 

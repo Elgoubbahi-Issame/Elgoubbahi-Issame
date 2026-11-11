@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Issame Elgoubbahi</h1>
-<h3 align="center">Full Stack Developer & Data Scientist 🌟</h3>
+<h3 align="center">Full Stack Engineer & AI Engineer 🌟</h3>
 
 <br>
 
